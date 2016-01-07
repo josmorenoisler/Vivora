@@ -18,7 +18,11 @@ public class Main {
         Juego juego = new Juego();
 		System.out.println("puto");
         juego.iniciar();
+<<<<<<< HEAD
 		
+=======
+        //HOla
+>>>>>>> origin/master
     }
     
 }
